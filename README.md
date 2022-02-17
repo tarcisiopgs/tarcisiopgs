@@ -1,9 +1,3 @@
-<style>
-a:hover {
-  text-decoration: none;
-}
-</style>
-
 ### Hello, my name is Tarcísio 👋
 
 <div align="center">
