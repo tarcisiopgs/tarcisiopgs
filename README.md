@@ -1,7 +1,5 @@
 # Tarcísio Pedro
 
-Co-founder at SoftMakers.
-
 [![Instagram](https://img.shields.io/badge/-tarcisiopgs-8338ec?style=flat-square&labelColor=8338ec&logo=Instagram&logoColor=white)](https://www.instagram.com/tarcisiopgs)
 [![Facebook](https://img.shields.io/badge/-tarcisiopgs-8338ec?style=flat-square&labelColor=8338ec&logo=Facebook&logoColor=white)](https://www.facebook.com/tarcisiopgs)
 [![LinkedIn](https://img.shields.io/badge/-tarcisiopgs-8338ec?style=flat-square&labelColor=8338ec&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarcisiopgs)
