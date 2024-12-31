@@ -1,7 +1,7 @@
 # 🌟 Bem-vindo ao meu perfil do GitHub!
 
 ## 🖥️ Sobre mim
-Me chamo Tarcísio Pedro, um engenheiro de software apaixonado por criar soluções práticas e eficientes. Tenho mais de 10 anos atuando na área de tecnologias, experiência em **desenvolvimento web e mobile** e sou fascinado por tecnologia e inovação.
+Me chamo Tarcísio Pedro, um engenheiro de software apaixonado por criar soluções práticas e eficientes. Tenho mais de 10 anos atuando diretamente com a construção de plataformas com foco em **desenvolvimento web e mobile** e sou fascinado por tecnologia e inovação.
 
 ## 🚀 Minhas habilidades:
 
