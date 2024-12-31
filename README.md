@@ -15,6 +15,7 @@ Me chamo Tarcísio Pedro, um engenheiro de software apaixonado por criar soluç�
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat-square)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white&style=flat-square)
 
 
 ### 🖥️ **Backend**:
