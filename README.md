@@ -1,7 +1,7 @@
 # 🌟 Bem-vindo ao meu perfil do GitHub!
 
 ## 🖥️ Sobre mim
-Me chamo Tarcísio Pedro, um engenheiro de software apaixonado por criar soluções práticas e eficientes. Tenho mais de 10 anos atuando diretamente com a construção de plataformas com foco em **desenvolvimento web e mobile** e sou fascinado por tecnologia e inovação.
+Me chamo Tarcísio Pedro, um engenheiro de software apaixonado por criar soluções práticas e eficientes. Atuo diretamente com a construção de plataformas com foco em **desenvolvimento web e mobile** e sou fascinado por tecnologia e inovação.
 
 ## 🚀 Minhas habilidades:
 
@@ -38,6 +38,11 @@ Me chamo Tarcísio Pedro, um engenheiro de software apaixonado por criar soluç�
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat-square)
+![Apache2](https://img.shields.io/badge/-Apache2-D22128?logo=apache&logoColor=white&style=flat-square)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
+
+
 
 ## 🏆 Meus destaques:
 - Contribuição para projetos de código aberto.  
