@@ -21,13 +21,12 @@ Me chamo Tarcísio Pedro, um engenheiro de software apaixonado por criar soluç�
 ### 🖥️ **Backend**:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
-![Fastify](https://img.shields.io/badge/-Fastify-000000?logo=fastify&logoColor=white&style=flat-square)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?logo=fastify&logoColor=white&style=flat-square)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-DD4814?logo=codeigniter&logoColor=white&style=flat-square)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
 
 
 ### 🗄️ **Banco de Dados**:
@@ -38,6 +37,7 @@ Me chamo Tarcísio Pedro, um engenheiro de software apaixonado por criar soluç�
 ### 🛠️ **Outras Tecnologias**:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
 
 ## 🏆 Meus destaques:
 - Contribuição para projetos de código aberto.  
