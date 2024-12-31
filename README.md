@@ -27,6 +27,8 @@ Me chamo Tarcísio Pedro, um engenheiro de software apaixonado por criar soluç�
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-DD4814?logo=codeigniter&logoColor=white&style=flat-square)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
+
 
 ### 🗄️ **Banco de Dados**:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
