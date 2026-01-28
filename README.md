@@ -29,7 +29,7 @@ Cloud       → AWS, GCP, Docker, Kubernetes
 
 [![LinkedIn](https://img.shields.io/badge/-tarcisiopgs-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarcisiopgs)
 [![Website](https://img.shields.io/badge/-tarcisiopgs.dev-000?style=flat&logo=vercel&logoColor=white)](https://tarcisiopgs.dev)
-[![Email](https://img.shields.io/badge/-hey@tarcisiopgs.dev-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hey@tarcisiopgs.dev)
+[![Email](https://img.shields.io/badge/-contato@tarcisiopgs.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contato@tarcisiopgs.com)
 
 ---
 
