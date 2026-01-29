@@ -7,7 +7,7 @@ I build web apps, mobile apps, APIs, and occasionally break things in production
 ## What I do
 
 - 🏗️ **Co-founder** at [SoftMakers](https://softmakers.com.br) — building digital products
-- 💳 **Developer** at [FindUP](https://findup.com.br) — fintech stuff
+- 💳 **Software Engineer** at [FindUP](https://findup.com.br) — fintech stuff
 - 🧠 Previously **CTO** — learned that meetings multiply faster than bugs
 
 ## Tech I work with
