@@ -31,15 +31,12 @@ I build web apps, mobile apps, APIs, and occasionally break things in production
 
 ## Featured projects
 
-[![lisa](https://github-readme-stats.vercel.app/api/pin/?username=tarcisiopgs&repo=lisa&theme=dark&hide_border=true)](https://github.com/tarcisiopgs/lisa)
-[![everhour-skill](https://github-readme-stats.vercel.app/api/pin/?username=tarcisiopgs&repo=everhour-skill&theme=dark&hide_border=true)](https://github.com/tarcisiopgs/everhour-skill)
-
-## Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tarcisiopgs&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiopgs&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</p>
+| Project | Description |
+|---------|-------------|
+| [**lisa**](https://github.com/tarcisiopgs/lisa) | Autonomous AI agent that resolves GitHub issues and opens PRs |
+| [**everhour-skill**](https://github.com/tarcisiopgs/everhour-skill) | Everhour API skill for AI coding assistants |
+| [**organizze-skill**](https://github.com/tarcisiopgs/organizze-skill) | Organizze personal finance skill for AI agents |
+| [**todoist-skill**](https://github.com/tarcisiopgs/todoist-skill) | Todoist task management skill for AI agents |
 
 ## Let's connect
 
