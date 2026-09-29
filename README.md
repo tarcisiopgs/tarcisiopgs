@@ -1,41 +1,11 @@
-# Hey, I'm Tarcísio 👋
+# Tarcísio Pedro
 
-**Full-stack developer from Brazil** turning coffee into code for 10+ years.
+I'm a software engineer based in Brazil. I've spent more than a decade building web and mobile products, APIs, and the systems that support them.
 
-I build web apps, mobile apps, APIs, and occasionally break things in production (just kidding... mostly).
+I've worked with agencies in Brazil, SaaS startups, and nonprofits in the UK. My work has included leading technical teams, designing software architecture, and making product decisions that hold up as teams and systems grow. Today, I work at [FindUP](https://findup.com.br) and am a co-founder of [SoftMakers](https://softmakers.com.br).
 
-## What I do
+I work across the stack, from interfaces and API contracts to deployment and infrastructure. I care about understanding the problem, making trade-offs explicit, and leaving code that other people can maintain.
 
-- **Co-founder** at [SoftMakers](https://softmakers.com.br) — building digital products
-- **Software Engineer** at [FindUP](https://findup.com.br) — fintech stuff
-- Previously **CTO** — learned that meetings multiply faster than bugs
+My main tools include TypeScript, React, Next.js, React Native, Node.js, Python, PostgreSQL, Redis, Docker, and AWS. I'm currently interested in AI agents and automation, particularly where they help teams do useful work more reliably.
 
-## Tech I work with
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-## Current interests
-
-- AI agents and automation
-- Building products that don't suck
-- Making infrastructure boring (in a good way)
-
-## Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/-tarcisiopgs-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/tarcisiopgs)
-[![Discord](https://img.shields.io/badge/-tarcisiopgs-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/tarcisiopgs)
-[![Portfolio](https://img.shields.io/badge/-tarcisiopgs.dev-333?style=flat-square&logo=safari&logoColor=white)](https://tarcisiopgs.dev)
-[![Email](https://img.shields.io/badge/-contato@tarcisiopgs.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contato@tarcisiopgs.com)
-
----
-
-<sub>*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler</sub>
+[Website](https://tarcisiopgs.dev) · [LinkedIn](https://linkedin.com/in/tarcisiopgs) · [Discord](https://discord.com/users/tarcisiopgs) · [Email](mailto:contato@tarcisiopgs.com)
